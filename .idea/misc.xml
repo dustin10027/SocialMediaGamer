@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/drawable/button_border.xml" value="0.162" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/drawable/circular_view.xml" value="0.162" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/drawable/custom_edittext_chat.xml" value="0.162" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/drawable/ic_password.xml" value="0.162" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/drawable/rounded_button.xml" value="0.162" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/drawable/rounded_linear_layout.xml" value="0.162" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/drawable/rounded_linear_layout_grey.xml" value="0.162" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/action_bar_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/activity_complete_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/activity_edit_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/activity_filters.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/activity_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/activity_post_detail.xml" value="0.22" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/activity_user_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/cardview_chats.xml" value="0.22" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/cardview_comment.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/cardview_message.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/cardview_my_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/cardview_post.xml" value="0.25" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/custom_chat_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/fragment_chats.xml" value="0.19010416666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/fragment_filters.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/layout/slider_layout_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/tuto_internet_android/SocialMediaGamer/app/src/main/res/xml/file_paths.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
